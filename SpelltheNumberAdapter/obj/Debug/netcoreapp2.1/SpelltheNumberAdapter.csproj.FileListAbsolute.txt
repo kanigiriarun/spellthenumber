@@ -1,0 +1,8 @@
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\bin\Debug\netcoreapp2.1\SpelltheNumberAdapter.deps.json
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\bin\Debug\netcoreapp2.1\SpelltheNumberAdapter.dll
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\bin\Debug\netcoreapp2.1\SpelltheNumberAdapter.pdb
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\obj\Debug\netcoreapp2.1\SpelltheNumberAdapter.csproj.CoreCompileInputs.cache
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\obj\Debug\netcoreapp2.1\SpelltheNumberAdapter.AssemblyInfoInputs.cache
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\obj\Debug\netcoreapp2.1\SpelltheNumberAdapter.AssemblyInfo.cs
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\obj\Debug\netcoreapp2.1\SpelltheNumberAdapter.dll
+C:\Users\arun.kanigiri\source\repos\SpelltheNumber\SpelltheNumberAdapter\obj\Debug\netcoreapp2.1\SpelltheNumberAdapter.pdb

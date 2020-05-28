@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>Converting Number to Words</h2>
+        <div>
+            <div class="input-group">
+                <form id="frmsearch" action="~/Home/Index" method="get">
+                    <input type="text" class="form-control" placeholder="Enter the number" aria-describedby="basic-addon1" id="q" name="q" value=""/>
+                    <input id="submit" name="submit" type="submit" value="Search" />
+                </form> 
+            </div>
+        </div>
+        <div>
+            <h3>@ViewData["Result"]</h3>
+        </div>
+    </div>
+    <div class="col-md-6">
+    </div>
+</div>
