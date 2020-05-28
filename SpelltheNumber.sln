@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpelltheNumber", "SpelltheN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpelltheNumberAdapter", "SpelltheNumberAdapter\SpelltheNumberAdapter.csproj", "{7CEED5A1-7BE9-4E75-9EAB-7FB07863AB15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpelltheNumber.Test", "SpelltheNumber.Test\SpelltheNumber.Test.csproj", "{012C3E50-7E30-4F39-9B4E-6767FD1BD3CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7CEED5A1-7BE9-4E75-9EAB-7FB07863AB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CEED5A1-7BE9-4E75-9EAB-7FB07863AB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CEED5A1-7BE9-4E75-9EAB-7FB07863AB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012C3E50-7E30-4F39-9B4E-6767FD1BD3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012C3E50-7E30-4F39-9B4E-6767FD1BD3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012C3E50-7E30-4F39-9B4E-6767FD1BD3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012C3E50-7E30-4F39-9B4E-6767FD1BD3CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
